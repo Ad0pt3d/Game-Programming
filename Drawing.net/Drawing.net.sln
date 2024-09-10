@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drawing.net", "Drawing.net\Drawing.net.csproj", "{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicLibrary", "GraphicLibrary\GraphicLibrary.csproj", "{CEA56615-468A-40B8-9E50-1565620EAD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA56615-468A-40B8-9E50-1565620EAD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA56615-468A-40B8-9E50-1565620EAD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA56615-468A-40B8-9E50-1565620EAD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA56615-468A-40B8-9E50-1565620EAD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0FE054-AD7F-4B77-8D6A-2CE5696DD06C}
+	EndGlobalSection
+EndGlobal
