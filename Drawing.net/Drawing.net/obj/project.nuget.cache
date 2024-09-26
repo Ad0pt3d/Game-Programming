@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KjRLx6D3wMA=",
+  "dgSpecHash": "FaUbP6oLcjM=",
   "success": true,
   "projectFilePath": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\Drawing.net\\Drawing.net.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

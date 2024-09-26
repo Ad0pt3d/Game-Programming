@@ -164,8 +164,7 @@
             comboBoxLineWidth.Items.AddRange(new object[] { "1 px", "2 px", "3 px", "4 px", "5 px", "6 px", "7 px", "8 px", "9 px", "10 px", "15 px", "20 px" });
             comboBoxLineWidth.Name = "comboBoxLineWidth";
             comboBoxLineWidth.Size = new Size(75, 28);
-            comboBoxLineWidth.SelectedIndexChanged += comboBoxLineWidth_TextChanged;
-            comboBoxLineWidth.TextChanged += comboBoxLineWidth_TextChanged;
+            comboBoxLineWidth.SelectedIndexChanged += comboBoxLineWidth_SelectedIndexChanged;
             // 
             // statusStripLabels
             // 
@@ -206,6 +205,10 @@
             panelCanvas.Name = "panelCanvas";
             panelCanvas.Size = new Size(800, 396);
             panelCanvas.TabIndex = 2;
+            panelCanvas.Paint += panelCanvas_Paint;
+            panelCanvas.MouseDown += panelCanvas_MouseDown;
+            panelCanvas.MouseMove += panelCanvas_MouseMove;
+            panelCanvas.MouseUp += panelCanvas_MouseUp;
             // 
             // DrawingMainForm
             // 

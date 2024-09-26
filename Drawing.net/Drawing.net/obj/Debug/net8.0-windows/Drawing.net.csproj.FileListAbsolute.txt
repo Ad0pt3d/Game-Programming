@@ -16,3 +16,10 @@ C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\obj
 C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\obj\Debug\net8.0-windows\Drawing.net.pdb
 C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\obj\Debug\net8.0-windows\Drawing.net.genruntimeconfig.cache
 C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\obj\Debug\net8.0-windows\ref\Drawing.net.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\bin\Debug\net8.0-windows\GraphicLibrary.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\bin\Debug\net8.0-windows\GraphicLibrary.pdb
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\obj\Debug\net8.0-windows\Drawing.net.csproj.AssemblyReference.cache
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\obj\Debug\net8.0-windows\Drawing..9E74B523.Up2Date
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\bin\Debug\net8.0-windows\GraphicManager.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\Drawing.net\bin\Debug\net8.0-windows\GraphicManager.pdb

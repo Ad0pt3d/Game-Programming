@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\graphiclibrary\\graphicline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|solutionrelative:graphiclibrary\\graphicline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}|Drawing.net\\Drawing.net.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\drawing.net\\drawingmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}|Drawing.net\\Drawing.net.csproj|solutionrelative:drawing.net\\drawingmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\graphiclibrary\\graphicshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|solutionrelative:graphiclibrary\\graphicshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}|Drawing.net\\Drawing.net.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\drawing.net\\drawingmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}|Drawing.net\\Drawing.net.csproj|solutionrelative:drawing.net\\drawingmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}|Drawing.net\\Drawing.net.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\drawing.net\\drawingmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E7B88-B49C-4571-BD5B-CF43C46D82F8}|Drawing.net\\Drawing.net.csproj|solutionrelative:drawing.net\\drawingmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\graphiclibrary\\graphicpolyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|solutionrelative:graphiclibrary\\graphicpolyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCF3890-BC25-4E30-8726-A09B669EE47E}|GraphicManager\\GraphicManager.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\graphicmanager\\graphicobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCF3890-BC25-4E30-8726-A09B669EE47E}|GraphicManager\\GraphicManager.csproj|solutionrelative:graphicmanager\\graphicobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|c:\\users\\rafim\\desktop\\collegeterm3\\game-programming\\drawing.net\\graphiclibrary\\graphicline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA56615-468A-40B8-9E50-1565620EAD45}|GraphicLibrary\\GraphicLibrary.csproj|solutionrelative:graphiclibrary\\graphicline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawingMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\Drawing.net\\DrawingMainForm.cs",
+              "RelativeDocumentMoniker": "Drawing.net\\DrawingMainForm.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\Drawing.net\\DrawingMainForm.cs [Design]",
+              "RelativeToolTip": "Drawing.net\\DrawingMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:47:25.496Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawingMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\Drawing.net\\DrawingMainForm.cs",
+              "RelativeDocumentMoniker": "Drawing.net\\DrawingMainForm.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\Drawing.net\\DrawingMainForm.cs",
+              "RelativeToolTip": "Drawing.net\\DrawingMainForm.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAADgv7AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:45:02.975Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -42,28 +85,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DrawingMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\Drawing.net\\DrawingMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Drawing.net\\DrawingMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\Drawing.net\\DrawingMainForm.Designer.cs",
+              "RelativeToolTip": "Drawing.net\\DrawingMainForm.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAEwKUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:33:50.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphicPolyline.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicLibrary\\GraphicPolyline.cs",
+              "RelativeDocumentMoniker": "GraphicLibrary\\GraphicPolyline.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicLibrary\\GraphicPolyline.cs",
+              "RelativeToolTip": "GraphicLibrary\\GraphicPolyline.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:28:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GraphicLine.cs",
               "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicLibrary\\GraphicLine.cs",
               "RelativeDocumentMoniker": "GraphicLibrary\\GraphicLine.cs",
               "ToolTip": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicLibrary\\GraphicLine.cs",
               "RelativeToolTip": "GraphicLibrary\\GraphicLine.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:26:26.063Z",
+              "WhenOpened": "2024-09-24T22:50:57.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GraphicShape.cs",
-              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicLibrary\\GraphicShape.cs",
-              "RelativeDocumentMoniker": "GraphicLibrary\\GraphicShape.cs",
-              "ToolTip": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicLibrary\\GraphicShape.cs",
-              "RelativeToolTip": "GraphicLibrary\\GraphicShape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GraphicObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicManager\\GraphicObjectManager.cs",
+              "RelativeDocumentMoniker": "GraphicManager\\GraphicObjectManager.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\CollegeTerm3\\Game-Programming\\Drawing.net\\GraphicManager\\GraphicObjectManager.cs",
+              "RelativeToolTip": "GraphicManager\\GraphicObjectManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:11:55.374Z",
+              "WhenOpened": "2024-09-24T22:46:30.671Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,13 @@
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\bin\Debug\net8.0\GraphicLibrary.deps.json
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\bin\Debug\net8.0\GraphicLibrary.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\bin\Debug\net8.0\GraphicLibrary.pdb
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.csproj.AssemblyReference.cache
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.AssemblyInfoInputs.cache
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.AssemblyInfo.cs
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.sourcelink.json
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\refint\GraphicLibrary.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\GraphicLibrary.pdb
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicLibrary\obj\Debug\net8.0\ref\GraphicLibrary.dll

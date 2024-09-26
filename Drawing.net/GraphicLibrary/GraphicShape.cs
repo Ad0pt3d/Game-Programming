@@ -4,17 +4,18 @@ namespace GraphicLibrary
 {
     public abstract class GraphicShape
     {
-        public Color lineColor;
-        public float lineWidth;
+        public Color LineColor { get; set; }
+        public float LineWidth { get; set; }
+        public Rectangle Bounds { get; set; }
 
         public GraphicShape() { }
 
         public GraphicShape(Color lineColor, float lineWidth) { }
 
-        public void Draw(Graphics g) { }
+        public abstract void Draw(Graphics g);
 
-        public void Serialize() { }
+        public abstract string Serialize();
 
-        public void Deserialize(string record) { }
+        public abstract void Deserialize(string record);
     }
 }

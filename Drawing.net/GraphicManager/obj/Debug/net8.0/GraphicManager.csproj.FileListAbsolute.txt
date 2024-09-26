@@ -1,0 +1,16 @@
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\bin\Debug\net8.0\GraphicManager.deps.json
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\bin\Debug\net8.0\GraphicManager.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\bin\Debug\net8.0\GraphicManager.pdb
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\bin\Debug\net8.0\GraphicLibrary.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\bin\Debug\net8.0\GraphicLibrary.pdb
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.csproj.AssemblyReference.cache
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.AssemblyInfoInputs.cache
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.AssemblyInfo.cs
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.csproj.CoreCompileInputs.cache
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.sourcelink.json
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicM.8C01B3AB.Up2Date
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\refint\GraphicManager.dll
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\GraphicManager.pdb
+C:\Users\rafim\Desktop\CollegeTerm3\Game-Programming\Drawing.net\GraphicManager\obj\Debug\net8.0\ref\GraphicManager.dll
